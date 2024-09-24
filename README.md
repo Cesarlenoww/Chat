@@ -12,15 +12,15 @@ Express: Framework para simplificar a criação de servidores web.
 Socket.io: Biblioteca para comunicação em tempo real via WebSockets.
 Como Executar
 Clone o repositório:
-bash
+
 Copiar código
 git clone https://github.com/seu-usuario/seu-repositorio.git
+
 Instale as dependências:
-bash
 Copiar código
 npm install
 Inicie o servidor:
-bash
+
 Copiar código
 npm start
 Acesse http://localhost:8888 em seu navegador para usar o chat.
